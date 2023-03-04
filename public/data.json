@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Sate Ayam",
+      "image": "https://img.herstory.co.id/articles/archive_20211105/sate-ayam-20211105-153519.jpg",
+      "price": 20000
+    },
+    {
+      "id": 2,
+      "name": "Iga Bakar",
+      "image": "https://asset.kompas.com/crops/j0eQo3eP3gnXcUtXXBPtEc1_93w=/208x0:1360x768/750x500/data/photo/2021/07/22/60f8b994e052d.jpg",
+      "price": 50000
+    },
+    {
+      "id": 3,
+      "name": "Mie Ayam",
+      "image": "https://rasabunda.com/wp-content/uploads/2021/09/Mie-Ayam-Jamur.jpg",
+      "price": 15000
+    },
+    {
+      "id": 4,
+      "name": "Kwetiaw Sapi Goreng",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/01/21/resep-kwetiau-sapi-goreng_43.jpeg?w=1200",
+      "price": 30000
+    },
+    {
+      "id": 5,
+      "name": "Nasi Rendang",
+      "image": "https://www.ruparupa.com/blog/wp-content/uploads/2022/04/resep-rendang-sapi-dengan-nasi-hangat.jpeg",
+      "price": 30000
+    },
+    {
+      "id": 6,
+      "name": "Ketoprak Telor",
+      "image": "https://www.piknikdong.com/wp-content/uploads/2020/09/Resep-Ketoprak-Jakarta-Enak.jpg",
+      "price": 16000
+    },
+    {
+      "id": 7,
+      "name": "Gado-Gado",
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2019/01/gado-gado-MAHI.jpg",
+      "price": 15000
+    },
+    {
+      "id": 8,
+      "name": "Es Teh Manis/Panas",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2020/05/14/0af32d8b-36b7-4555-8e79-4fd54c98f795_43.jpeg?w=250&q=",
+      "price": 5000
+    },
+    {
+      "id": 9,
+      "name": "Es Jeruk/Panas",
+      "image": "https://storage.googleapis.com/finansialku_media/wordpress_media/2019/07/Sudah-Saatnya-Lirik-Modal-dan-Keuntungan-dari-Bisnis-Es-Jeruk-01-Finansialku.jpg",
+      "price": 5000
+    }
+  ]
